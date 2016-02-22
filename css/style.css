@@ -6,7 +6,10 @@ body{
 
 div.card{
   border: 1px solid red;
-  background: url(../img/File%2021-2-16%204%2042%2041%20p.m.%20copia816.png) no-repeat center top;
+  background: url(../img/File%2021-2-16%204%2042%2041%20p.m.%20copia816.png) no-repeat center;
+  background-size: 100%;
+  height: 550px;
+  text-shadow: 0px 1px black;
 }
 
 @media (max-width: 816px){
