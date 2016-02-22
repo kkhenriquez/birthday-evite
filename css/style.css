@@ -7,11 +7,17 @@ body{
 div.card{
   border: 1px solid red;
   background: url(../img/File%2021-2-16%204%2042%2041%20p.m.%20copia816.png) no-repeat center top;
-  width: 100%;
-  height: 600px;
-  
 }
 
+@media (max-width: 816px){
+  div.card{ 
+    background-size: contain;
+    width: 100%;
+    height: 0;
+    padding-bottom: 100%;
+  }
+}
+  
 hr{
   border-top: 2px solid #eee;
 }
