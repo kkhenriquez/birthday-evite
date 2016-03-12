@@ -39,6 +39,10 @@ div.card{
   top: 60px;
 }
 
+#divider{
+  margin-bottom: 10px;
+}
+
 @media screen and (min-width: 991px){
   #divider{
     padding-right: 20px;
@@ -53,7 +57,7 @@ div.card{
 p.line{
   display: inline-block;
   min-height: 20px;
-  line-height: 40px;
+  line-height: 15px;
 }
 
 #location{
