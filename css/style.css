@@ -1,3 +1,7 @@
+html{
+  overflow-y: scroll;
+}
+
 body{
   background-color: #13161d;
   color: rgb(239,242,249);
