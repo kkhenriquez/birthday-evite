@@ -6,7 +6,6 @@ body{
 }
 
 div.card{
-  border: 1px solid red;
   background: url(../img/File%2021-2-16%204%2042%2041%20p.m.%20copia600.png) no-repeat center;
   background-size: 100%;
   height: 550px;
@@ -56,9 +55,8 @@ p.line{
 }
 
 #location{
-  margin-top: 5px;
+  padding-top: 5px;
   padding-bottom: 10px;
-  border: 1px solid blue;
 }
 
 .glyphicon{
@@ -72,7 +70,7 @@ p.line{
 }
 
 #address{
-  margin-top: 5px;
+  padding-top: 5px;
 }
 
 .footer{
